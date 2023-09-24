@@ -1,4 +1,4 @@
-# Wrting Good Documentation
+# Writing Good Documentation
 
 ## Step 1 - Using Codeblocks.
 
@@ -53,7 +53,7 @@ end
 
 ![2023-04-27](https://github.com/Nurudeen25/github-docs-example/assets/67113867/b0f2ad44-25bf-4dc6-bb02-cb186468b162)
 
-<img width="200px" src="https://github.com/Nurudeen25/github-docs-example/assets/67113867/b0f2ad44-25bf-4dc6-bb02-cb186468b162"/>
+<img width="200px" src="assets/2023-04-27.png"/>
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -95,9 +95,9 @@ You can use the following markdown format to create tables:
 | Cloud | `:cloud:` | :cloud: |
 | Cloud with lightening | `🌩️:` | 🌩️: |
 ```
-Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>]
+Github extends the functionality of Markdown tables to provide more alignment and table cell formatting options. <sup>[2]</sup>
 
-
+![Screenshot](assets/2023-04-27.png)
 
 ## References
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/) 
